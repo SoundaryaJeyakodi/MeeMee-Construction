@@ -1,18 +1,23 @@
 let previewContainer = document.querySelector('.products-preview');
 let previewBox = previewContainer.querySelectorAll('.preview');
-let product = document.querySelector('.product-container .product');
 
-
-
-
-
-function display()
+document.querySelectorAll('.product-container .product').forEach(product =>
 {
-  let name = product.getAttribute('data-name');
-  let target =  previewBox.getAttribute('data-target');
+    product.onclick=()=>
+    {
+        previewContainer.style.display = 'flex';
+        let name = product.getAttribute('data-name');
+        previewBox.forEach(preview=>{
+          let target =  preview.getAttribute('data-target');
+          if(name==target)
+          {
+            preview.classList.add('active');
+          }
 
-alert(target);
-}
+
+        });
+    };
+});
 
 previewBox.forEach(close =>
 {
