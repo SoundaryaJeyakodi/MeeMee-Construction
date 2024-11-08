@@ -1,0 +1,94 @@
+body
+{
+  
+  background-size: cover;
+}
+/* CSS */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 30px 0;
+  font-family: Arial, sans-serif;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-left,
+
+.footer-right {
+  flex: 1;
+  margin-left: 150px;
+}
+
+.footer-left p, .footer-right p, .social-media a {
+  margin: 5px 0;
+    font-size: 15px;
+
+}
+
+.footer-left p a
+{
+  text-decoration: none;
+  color: #fff;
+}
+
+.social-media a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 5px;
+  
+}
+.social-media a .fa-facebook, .fa-square-instagram, .fa-envelope
+{
+  border-right: 1px solid #fff;
+  padding-right: 10px;
+  
+}
+
+.social-media a:hover {
+  text-decoration: underline;
+}
+
+.footer-cen {
+  text-align: center;
+  height: 40px;
+  width: 100%;
+  background-color: #444;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.footer-menu a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 14px;
+}
+
+.footer-menu a:hover {
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+.footer p, .footer-menu a, .social-media a {
+  color: #ccc;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.footer p:hover, .footer-menu a:hover, .social-media a:hover {
+  color: #fff;
+}
