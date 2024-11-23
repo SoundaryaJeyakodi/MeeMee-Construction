@@ -5,7 +5,7 @@ document.querySelectorAll('.product-container .product').forEach(product =>
 {
     product.onclick=()=>
     {
-        previewContainer.style.display = 'flex';
+        previewContainer.style.display = 'block';
         let name = product.getAttribute('data-name');
         previewBox.forEach(preview=>{
           let target =  preview.getAttribute('data-target');

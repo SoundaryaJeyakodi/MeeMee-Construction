@@ -1,7 +1,9 @@
+
 body
 {
   
   background-size: cover;
+  width: 100%;
 }
 /* CSS */
 .footer {
@@ -15,7 +17,7 @@ body
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1200px;
+  width: 100%;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -24,7 +26,7 @@ body
 
 .footer-right {
   flex: 1;
-  margin-left: 150px;
+  margin-left: 20%;
 }
 
 .footer-left p, .footer-right p, .social-media a {
@@ -60,7 +62,6 @@ body
 .footer-cen {
   text-align: center;
   height: 40px;
-  width: 100%;
   background-color: #444;
   padding: 10px;
   margin-top: 10px;
@@ -69,7 +70,7 @@ body
 .footer-menu a {
   color: #fff;
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 15px;
   font-size: 14px;
 }
 
@@ -91,4 +92,144 @@ body
 
 .footer p:hover, .footer-menu a:hover, .social-media a:hover {
   color: #fff;
+}
+
+@media  (max-width:768px)
+{
+  .footer {
+    
+    padding: 10px 0;
+   
+
+  }
+  
+  .footer-container {
+    
+    padding: 0 10px;
+  }
+  
+  .footer-left,
+  
+  .footer-right {
+    
+    margin-left: 10%;
+  }
+  
+  .footer-left p, .footer-right p, .social-media a {
+    
+      font-size: 15px;
+  
+  }
+  
+ 
+  
+  .social-media a {
+    
+    font-size: 15px;
+    margin: 0 5px;
+    
+  }
+  .social-media a .fa-facebook, .fa-square-instagram, .fa-envelope
+  {
+   
+    padding-right: 10px;
+    
+  }
+  
+  .footer-cen {
+    text-align: center;
+    height: 40px;
+    background-color: #444;
+    padding: 5px;
+    margin-top: 0;
+  }
+  
+  .footer-menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 12px;
+  }
+  
+  
+  
+  
+  
+  .footer-bottom {
+   
+    font-size: 10px;
+    margin-top: 10px;
+  }
+  
+   
+}
+
+@media  (max-width:480px)
+{
+  .footer {
+    
+    padding: 5px 0;
+   
+
+  }
+  
+  .footer-container {
+    
+    padding: 0 5px;
+  }
+  
+  .footer-left,
+  
+  .footer-right {
+    
+    margin-left: 60px;
+  }
+  
+  .footer-left p, .footer-right p, .social-media a {
+    
+      font-size: 10px;
+  
+  }
+  
+ 
+  
+  .social-media a {
+    
+    font-size: 10px;
+    margin: 0 3px;
+    
+  }
+  .social-media a .fa-facebook, .fa-square-instagram, .fa-envelope
+  {
+   
+    padding-right: 5px;
+    
+  }
+  
+  .footer-cen {
+    text-align: center;
+    height: 30px;
+    background-color: #444;
+    padding: 5px;
+    margin-top: 0;
+  }
+  
+  .footer-menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+    font-size: 10px;
+  }
+  
+  
+  
+  
+  
+  .footer-bottom {  
+   
+    font-size: 8px;
+    margin-top: 10px;
+  }
+  
+   
 }
