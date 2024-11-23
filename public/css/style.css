@@ -25,6 +25,7 @@ header
     border-radius: 50%;
     height: 60px;
     width: 60px;
+    object-fit:contain;
 }
  
 header .menu ul
