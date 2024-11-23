@@ -6,7 +6,7 @@
 
 header
 {
-    height: 100px;
+    height: 40px;
     width: 88%;
     margin-top: 10px;
     position: absolute;
@@ -23,8 +23,8 @@ header
 .logo img
 {
     border-radius: 50%;
-    height: 120px;
-    width: 120px;
+    height: 40px;
+    width: 50px;
 }
  
 header .menu ul
