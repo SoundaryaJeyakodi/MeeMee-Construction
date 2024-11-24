@@ -11,14 +11,13 @@ header
     margin-top: 10px;
     position: absolute;
     top:10px ;
-    
+    z-index:1;
 }
 .logo
 {
     float:left;
     margin-left: 100px;
-     height: 120px;
-    width: 120px;
+     
    
 }
 .logo img
