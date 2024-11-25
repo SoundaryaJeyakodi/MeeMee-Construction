@@ -26,6 +26,7 @@ header .logo img
     border-radius: 50%;
     height: 90px;
     max-width: 90px;
+    object-fit:fill;
 }
  
 header .menu ul
