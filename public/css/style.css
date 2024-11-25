@@ -18,15 +18,14 @@ header .logo
 {
     float:left;
     margin-left: 100px;
-    max-width: 15%;
-    height:90px;
+    width: 20%;
    
 }
 header .logo img
 {
     border-radius: 50%;
     height: 90px;
-    max-width: 90px;
+    width: 90px;
     object-fit:fill;
 }
  
