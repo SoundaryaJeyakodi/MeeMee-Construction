@@ -109,7 +109,7 @@ header .menu ul li:hover .dropdown-content a
     top:5px ;
     
 }
-.logo
+ header .logo
 {
    
     margin-left: 15px;
@@ -118,7 +118,7 @@ header .menu ul li:hover .dropdown-content a
      height: 50px;
    max-width: 50px;
 }
-.logo img
+ header .logo img
 {
     border-radius: 50%;
     height: 50px;
