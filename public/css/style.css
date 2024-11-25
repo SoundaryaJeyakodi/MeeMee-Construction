@@ -24,7 +24,7 @@ header
 {
     border-radius: 50%;
     height: 120px;
-    width: 120px;
+    max-width: 120px;
 }
  
 header .menu ul
