@@ -13,7 +13,7 @@ header
     top:10px ;
     z-index:1;
 }
-.logo
+header .logo
 {
     float:left;
     margin-left: 100px;
@@ -21,7 +21,7 @@ header
     height:90px;
    
 }
-.logo img
+header .logo img
 {
     border-radius: 50%;
     height: 90px;
