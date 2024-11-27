@@ -54,8 +54,9 @@ position :relative;
 }
 .about-image img
 {
-  height: 500px;
-  width: 100%;
+  max-height: 100%;
+  max-width: 100%;
+    display:block;
 }
 .about-content
 {
