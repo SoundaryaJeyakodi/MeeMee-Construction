@@ -119,8 +119,8 @@ header .menu ul li:hover .dropdown-content a
  header .logo img
 {
     border-radius: 50%;
-    height: 50px;
-    width: 50px;
+    height: 90px;
+    width: 90px;
 }
 
 header .menu ul
