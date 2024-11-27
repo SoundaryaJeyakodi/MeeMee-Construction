@@ -54,8 +54,8 @@ position :relative;
 .about-image img
 {
      all: unset;
-  max-height: 100% !important;
-  max-width: 100% !important;
+  max-height: 200px !important;
+  max-width: 100px !important;
     object-fit:contain;
 }
 .about-content
