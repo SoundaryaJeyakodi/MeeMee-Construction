@@ -14,23 +14,19 @@ header
     top:10px ;
     z-index:1;
 }
-header .logo
+.logo
 {
     float:left;
     margin-left: 100px;
-    height:90px;
-    width:90px;
+    
    
 }
 .logo img
 {
     border-radius: 50%;
-   max-height: 100%;
-   max-width: 100%;
-    diplay:block;
-    
+    height: 120px;
+    width: 120px;
 }
- 
 header .menu ul
 {
     margin-top: 30px;
