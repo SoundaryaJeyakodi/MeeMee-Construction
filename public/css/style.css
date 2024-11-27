@@ -18,8 +18,7 @@ header .logo
 {
     float:left;
     margin-left: 100px;
-    width: 20%;
-    height:90px;
+    
    
 }
 header .logo img
@@ -27,7 +26,7 @@ header .logo img
     border-radius: 50%;
    max-height: 90px;
    max-width: 90px;
-    object-fit:fill;
+    
 }
  
 header .menu ul
