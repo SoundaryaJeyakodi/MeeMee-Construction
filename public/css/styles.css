@@ -24,8 +24,8 @@ header
 .logo img
 {
     border-radius: 50%;
-    height: 120px;
-    width: 120px;
+    height: 150px;
+    width: 150px;
 }
 header .menu ul
 {
@@ -119,8 +119,8 @@ header .menu ul li:hover .dropdown-content a
  header .logo img
 {
     border-radius: 50%;
-    height: 90px;
-    width: 90px;
+    height: 150px;
+    width: 150px;
 }
 
 header .menu ul
@@ -190,8 +190,8 @@ header .menu ul li:hover a
 .logo img
 {
     border-radius: 50%;
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
 }
 
 header .menu ul
@@ -264,8 +264,8 @@ header .menu ul li:hover a
 .logo img
 {
     border-radius: 50%;
-    height: 30px;
-    width: 30px;
+    height: 50px;
+    width: 50px;
 }
 
 header .menu ul
