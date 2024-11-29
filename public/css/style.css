@@ -7,7 +7,7 @@ body
 
 header
 {
-    width: 100%;
+    width: 97%;
     margin-top: 10px;
     position: absolute;
     z-index:1;
@@ -101,7 +101,7 @@ header .menu ul li:hover .dropdown-content a
   {
     header
 {
-    width: 100%;
+    width: 97%;
     margin-top: 10px;
     position: absolute;
     
