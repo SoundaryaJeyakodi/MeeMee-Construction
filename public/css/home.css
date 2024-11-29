@@ -46,7 +46,7 @@ text-align:justify;
 
 position :relative;
 }
-.about-image
+.about-text .about-image
 {
   overflow: hidden;
   float: right;
@@ -56,7 +56,7 @@ position :relative;
  width: 30%;
  height: 300px;
 }
-.about-image img
+.about-text .about-image img
 {
    width:none;
     height:none;
