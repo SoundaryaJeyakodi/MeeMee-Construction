@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+img {
+    all: unset; /* Remove all inherited and default styles */
+    display: block; /* Restore block-level display if needed */
+    }
+
 
     
 body
