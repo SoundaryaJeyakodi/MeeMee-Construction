@@ -16,7 +16,7 @@ body
 {
    border-radius: 8px;
    object-fit: cover;
-    height: 700px;
+    height: auto;
     width: 98%;
 }
 .carousel-item h3
@@ -57,11 +57,12 @@ position :relative;
  width: 30% !important;
  height: 300px !important;
 }
-.about-image img *
+.about-image img 
 {
-     all: unset;
-  max-height: 200px !important;
-  max-width: 100px !important;
+   max-width:none;
+    max-height:none;
+ height: 200px !important;
+  width: 100px !important;
     object-fit:contain;
 }
 .about-content
