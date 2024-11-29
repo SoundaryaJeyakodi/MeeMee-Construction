@@ -108,7 +108,7 @@ header .menu ul li:hover .dropdown-content a
     top:5px ;
     
 }
- header .logo
+ .logo
 {
    
     margin-left: 15px;
@@ -116,7 +116,7 @@ header .menu ul li:hover .dropdown-content a
    margin-top: 10px;
    width: 20%;
 }
- header .logo img
+ .logo img
 {
     border-radius: 50%;
     height: 150px;
