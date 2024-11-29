@@ -58,11 +58,11 @@ position :relative;
 }
 .about-image img
 {
-   max-width:none;
-    max-height:none;
+   width:none;
+    height:none;
  height: 200px;
   width: 100px;
-    object-fit:contain;
+    object-fit:fill;
 }
 .about-content
 {
