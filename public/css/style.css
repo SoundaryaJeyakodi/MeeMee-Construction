@@ -30,13 +30,13 @@ header .menu ul
 {
     margin-top: 30px;
    float: right;
-    margin-right:20px;
+    margin-right:40px;
 }
 header .menu ul li
 {
     display:inline-block;    
     font-size: large;
-    padding-left:50px ;
+    margin-left:50px ;
     
 }
 header .menu ul li a
@@ -125,7 +125,7 @@ header .menu ul li:hover .dropdown-content a
 header .menu ul
 {
     margin-top: 30px;
-
+margin-right:40px;
 }
 header .menu ul li
 {
