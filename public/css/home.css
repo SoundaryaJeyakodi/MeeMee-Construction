@@ -596,7 +596,7 @@ opacity:1;
 {
         .carousel-item img
     {
-    height:auto;
+  height: calc(100vh - env(safe-area-inset-top) - env(safe-area-inset-bottom));
     }
   .hi-slide .slide-div
 {
@@ -984,11 +984,7 @@ width: 96%;
 @media  (max-width:768px)
 {
     
-    .carousel-item img
-    {
-    height:auto;
-    }
-  
+
   .carousel-item h3
 {
       
@@ -1368,11 +1364,7 @@ width: 96%;
 
 @media  (max-width:480px)
 {
-    .carousel-item img
-    {
-    height:auto;
-    }
-    
+
   
   
   .carousel-item h3
