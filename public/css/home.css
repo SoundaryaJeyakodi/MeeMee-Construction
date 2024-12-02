@@ -40,7 +40,7 @@ body
     padding:20px;
     margin-top: 50px;
     width:99%;
-    height: 500px;
+    height: auto;
 margin-left: 0.5%;
 text-align:justify;
 
@@ -1005,7 +1005,7 @@ width: 96%;
 .about-image
 {
 width: 100%;
-height: 100%;
+height: auto;
 margin-top: 20px;
 position: relative;
 margin-bottom:20px ;
@@ -1013,7 +1013,6 @@ margin-bottom:20px ;
 }
 .about-image img
 {
-  height: 800px;
 width: 100%;
 border-radius: 12px;
 opacity: 0.5;
@@ -1391,7 +1390,7 @@ position: relative;
 }
 .about-image img
 {
-  height: 470px;
+  height: auto;
 width: 100%;
 border-radius: 12px;
 opacity: 0.5;
