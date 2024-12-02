@@ -39,7 +39,7 @@ body
     border-radius: 8px;
     padding:20px;
     margin-top: 50px;
-    width:99%;
+    width:100%;
     height: auto;
 margin-left: 0.5%;
 text-align:justify;
@@ -54,14 +54,13 @@ position :relative;
  border-radius: 12px;
  box-shadow: rgba(0, 0,0,0.1);
  width: 30%;
- height: 500px;
+ height: auto;
 }
 .about-text .about-image img
 {
    max-width:none;
     max-height:none;
- height: 200px;
-  width: 100px;
+  width: 100%;
     object-fit:fill;
 }
 .about-content
