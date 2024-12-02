@@ -979,7 +979,11 @@ width: 96%;
 
 @media  (max-width:768px)
 {
-  
+    
+  .carousel-item img
+    {
+        height:100%;
+    }
   
   .carousel-item h3
 {
