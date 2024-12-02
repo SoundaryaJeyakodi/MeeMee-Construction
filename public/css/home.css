@@ -20,7 +20,7 @@ body
 .carousel-item h3
 {
     position: absolute;
-    top:70%;
+    bottom:15%;
     left:50%;
     transform: translateX(-50%);
     background-color:rgba(199, 189, 189,0.4) !important;
@@ -988,9 +988,7 @@ width: 96%;
   .carousel-item h3
 {
       
-   position: absolute;
-    text-align: center;
-    top:70%;
+   
     padding: 5px;
     font-size: 22px;    
 }
@@ -1370,9 +1368,7 @@ width: 96%;
   .carousel-item h3
 {
       
-   position: absolute;
-    text-align: center;
-    top:70%;
+   
     padding: 5px;
     font-size: 18px;    
 }
