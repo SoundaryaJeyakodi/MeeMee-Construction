@@ -597,7 +597,6 @@ opacity:1;
         .carousel-item img
     {
   min-height: 100vh;
-        overflow:hidden;
     }
   .hi-slide .slide-div
 {
