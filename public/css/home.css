@@ -39,29 +39,28 @@ body
     border-radius: 8px;
     padding:20px;
     margin-top: 50px;
-    width:100%;
-    height: auto;
+    width:99%;
+    height: max-content;
 margin-left: 0.5%;
 text-align:justify;
 
 position :relative;
 }
-.about-text .about-image
+.about-image
 {
   overflow: hidden;
   float: right;
   margin-top: 80px;
  border-radius: 12px;
  box-shadow: rgba(0, 0,0,0.1);
+ object-fit:cover;
  width: 30%;
- height: auto;
+ height: 500px;
 }
-.about-text .about-image img
+.about-image img
 {
-   max-width:none;
-    max-height:none;
+  height: 500px;
   width: 100%;
-    object-fit:fill;
 }
 .about-content
 {
