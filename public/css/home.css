@@ -631,6 +631,7 @@ opacity:1;
 .about-image
 {
 width: 100%;
+height: 100%;
 margin-top: 20px;
 position: relative;
 margin-bottom:20px ;
@@ -638,7 +639,7 @@ margin-bottom:20px ;
 }
 .about-image img
 {
-  height: 700px;
+  height: 800px;
 width: 100%;
 border-radius: 12px;
 opacity: 0.5;
@@ -1003,7 +1004,7 @@ width: 96%;
 .about-image
 {
 width: 100%;
-height: auto;
+height: 100%;
 margin-top: 20px;
 position: relative;
 margin-bottom:20px ;
@@ -1011,6 +1012,7 @@ margin-bottom:20px ;
 }
 .about-image img
 {
+  height: 800px;
 width: 100%;
 border-radius: 12px;
 opacity: 0.5;
@@ -1027,7 +1029,6 @@ z-index: -1;
  margin-bottom: 20px;
  
 }
-
 .about-content h2
 {
     font-size: 25px;
@@ -1388,7 +1389,7 @@ position: relative;
 }
 .about-image img
 {
-  height: auto;
+  height: 470px;
 width: 100%;
 border-radius: 12px;
 opacity: 0.5;
@@ -1405,6 +1406,7 @@ z-index: -1;
  margin-bottom: 20px;
  
 }
+
 
 .about-content h2
 {
