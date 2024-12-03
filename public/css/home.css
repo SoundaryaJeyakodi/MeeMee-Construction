@@ -661,8 +661,8 @@ color: #090907;
 .about-btn
 {
   padding: 5px;
+    display:flex;
     justify-content: center;
-    align-items: center;
 margin-top: 5%;
 width: 200px;
 
