@@ -625,7 +625,14 @@ opacity:1;
 @media  (max-width:1000px)
 {
   
-  
+.about-image
+    {
+        width:40%;
+    }
+.about-content
+    {
+        width:57%
+    }
  
 
 
@@ -639,7 +646,7 @@ opacity:1;
 .about-content p
 {
     
-  font-size: 16px;
+  font-size: 15px;
 padding:5px;
 margin-bottom: 0;
 color: #090907;
