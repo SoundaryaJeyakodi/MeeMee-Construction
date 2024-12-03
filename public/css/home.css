@@ -193,7 +193,6 @@ inherits: false;
 {
   display: flex;
   justify-content: center;
-
   align-items: center;
   height: 700px;
 
@@ -701,7 +700,7 @@ width: 200px;
 .team-members
 {  
   height: 500px;
-  width:auto ;  
+  width:98%;  
 
  margin-top: 0;
 
@@ -1039,7 +1038,7 @@ color: #090907;
     align-items: center;
 margin-top: 5%;
 width: 200px;
-    margin-left:0;
+    margin-left:10%;
 
 }
 .about-btn a
@@ -1417,8 +1416,7 @@ font-weight: bold;
 .about-btn
 {
   padding: 2px;
-    justify-content: center;
-    align-items: center;
+    
 margin-top: 5%;
 width: 100px;
 
