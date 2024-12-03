@@ -631,7 +631,7 @@ opacity:1;
     }
     .about-image img
     {
-        margin-top:5px;
+        margin-top:0;
     }
 .about-content
     {
@@ -651,7 +651,7 @@ opacity:1;
 {
     
   font-size: 15px;
-padding:5px;
+padding:0;
 margin-bottom: 0;
 color: #090907;
 
