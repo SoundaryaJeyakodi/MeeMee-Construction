@@ -628,6 +628,7 @@ opacity:1;
 .about-image
     {
         width:35%;
+         margin-top:0;
     }
     .about-image img
     {
