@@ -1033,13 +1033,13 @@ color: #090907;
 .about-btn
 {
      position:absolute;
-    top:70%;
-    left:25%;
+    top:73%;
+    left:10%;
   padding: 5px;
     justify-content: center;
     align-items: center;
 margin-top: 5%;
-width: 80px;
+width: 200px;
 
 }
 .about-btn a
