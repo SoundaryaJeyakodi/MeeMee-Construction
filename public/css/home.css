@@ -1031,12 +1031,14 @@ color: #090907;
 .about-btn
 {
      position:absolute;
-    top:71%;   
+    top:72%; 
+    left:25%;
   padding: 5px;
     display:flex;
     justify-content: center;
     align-items: center;
 margin-top: 5%;
+    margin-left:0;
 width: 200px;
     
 
