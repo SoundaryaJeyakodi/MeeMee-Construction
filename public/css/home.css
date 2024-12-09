@@ -318,8 +318,7 @@ animation: moveAndZoom 5s forwards ease-in-out;
 
 }
 .services
-{
-    
+{    
     height: max-content;
 }
 .services h1
@@ -336,11 +335,9 @@ animation: moveAndZoom 5s forwards ease-in-out;
 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-    gap: 40px; 
-    
-    margin: 50px 40px 40px 40px; 
-
-    
+    align-items: stretch;
+    gap: 40px;     
+    margin: 50px 40px 40px 40px;     
 }
 .grid
 {
