@@ -787,7 +787,7 @@ left:10px;
 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-    gap: 20px; 
+    gap: 30px; 
     justify-content:center;
     align-items: center;
 
