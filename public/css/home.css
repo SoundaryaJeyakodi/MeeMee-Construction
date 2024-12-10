@@ -801,9 +801,7 @@ left:10px;
     border-radius: 10px;
 margin: 0;
 border-width:20px;
-     box-sizing: border-box;
-  overflow: hidden;
-
+      grid-auto-rows: 200px;
 }
 
 
