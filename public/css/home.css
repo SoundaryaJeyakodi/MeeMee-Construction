@@ -66,7 +66,6 @@ position :relative;
 {
   float:left;
   width:67%;
- background-color:blue;
 }
 
 .about-content h2
@@ -1043,7 +1042,7 @@ color: #090907;
     display:flex;
     justify-content: center;
     align-items: center;
-margin-top: 5px;
+margin-top: 5%;
     margin-left:0;
 width: 200px;
     
