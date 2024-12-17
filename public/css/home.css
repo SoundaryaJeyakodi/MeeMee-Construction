@@ -1037,14 +1037,15 @@ color: #090907;
 
 .about-btn
 {
-    
+     position:absolute;
+    top:72%; 
+    left:35%;
   padding: 5px;
     display:flex;
     justify-content: center;
     align-items: center;
 margin-top: 4%;
 width: 100px;
-    opacity:1;
     
 
 }
