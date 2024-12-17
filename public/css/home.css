@@ -1045,6 +1045,8 @@ color: #090907;
 margin-top: 5%;
     margin-left:0;
 width: 200px;
+    opacity:1;
+    z-index:1;
     
 
 }
