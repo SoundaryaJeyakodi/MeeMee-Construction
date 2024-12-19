@@ -43,7 +43,7 @@ body
     height: max-content;
 margin-left: 0.5%;
 text-align:justify;
-
+background-color:red;
 position :relative;
 }
 .about-image
