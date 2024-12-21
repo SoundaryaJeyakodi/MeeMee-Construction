@@ -1008,6 +1008,7 @@ z-index: -1;
 {
  position: absolute;
  padding:5px;
+    padding-right:5px;
  top:0;
  left:0;
  width: 100%;
