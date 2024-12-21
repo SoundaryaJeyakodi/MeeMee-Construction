@@ -1036,8 +1036,8 @@ color: #090907;
 .about-btn
 {
      position:absolute;
-    top:72%; 
-    left:20%;
+    top:60%; 
+    left:30%;
 text-align: center;
     padding: 5px;
   margin-left:0; 
@@ -1420,8 +1420,10 @@ font-weight: bold;
 
 .about-btn
 {
+    position:absolute;
   padding: 2px;
-    
+   top:72%; 
+    left:20%;  
 margin-top: 5%;
 width: 200px;
 
