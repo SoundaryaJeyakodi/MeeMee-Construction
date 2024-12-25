@@ -14,7 +14,7 @@
        
         $.extend(true, setting, options);
       
-        if($(window).width()<480)
+        if($(window).width()<=480)
         {
             var states = [
                 { $zIndex: 1, width: 60, height: 70, top: 69, left: 34, $opacity: 0.2 },
