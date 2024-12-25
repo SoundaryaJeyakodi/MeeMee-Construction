@@ -26,7 +26,7 @@
                 { $zIndex: 1, width: 60, height: 70, top: 69, left: 200, $opacity: 0.2 }
             ];
         }
-        else if(($(window).width()>=480) && ($(window).width()<600))
+        else if(($(window).width()>480) && ($(window).width()<600))
             {
                 var states = [
                     { $zIndex: 1, width: 70, height: 80, top: 69, left: 44, $opacity: 0.2 },
