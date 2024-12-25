@@ -26,19 +26,19 @@
                 { $zIndex: 1, width: 60, height: 70, top: 69, left: 200, $opacity: 0.2 }
             ];
         }
-        else if(($(window).width()>480) && ($(window).width()<600))
+        else if(($(window).width()>480) && ($(window).width()<=600))
             {
                 var states = [
-                    { $zIndex: 1, width: 70, height: 80, top: 69, left: 44, $opacity: 0.2 },
+                    { $zIndex: 1, width: 70, height: 80, top: 69, left: 64, $opacity: 0.2 },
                     { $zIndex: 2, width: 110, height: 130, top: 59, left: 0, $opacity: 0.4 },
-                    { $zIndex: 3, width: 130, height: 188, top: 35, left: 28, $opacity: 0.7 },
-                    { $zIndex: 4, width: 180, height: 250, top: 0, left: 60, $opacity: 1 },
-                    { $zIndex: 3, width: 130, height: 188, top: 35, left: 150, $opacity: 0.7 },
-                    { $zIndex: 2, width: 150, height: 130, top: 59, left: 170, $opacity: 0.4 },
-                    { $zIndex: 1, width: 70, height: 80, top: 69, left: 210, $opacity: 0.2 }
+                    { $zIndex: 3, width: 130, height: 188, top: 35, left: 48, $opacity: 0.7 },
+                    { $zIndex: 4, width: 180, height: 250, top: 0, left: 80, $opacity: 1 },
+                    { $zIndex: 3, width: 130, height: 188, top: 35, left: 170, $opacity: 0.7 },
+                    { $zIndex: 2, width: 150, height: 130, top: 59, left: 190, $opacity: 0.4 },
+                    { $zIndex: 1, width: 70, height: 80, top: 69, left: 230, $opacity: 0.2 }
                 ];
             }
-            else if(($(window).width()>=600) && ($(window).width()<700))
+            else if(($(window).width()>600) && ($(window).width()<700))
                 {
                     var states = [
                         { $zIndex: 1, width: 80, height: 90, top: 69, left: 54, $opacity: 0.2 },
