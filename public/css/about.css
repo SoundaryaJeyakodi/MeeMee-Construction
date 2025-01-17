@@ -11,9 +11,7 @@ body img
 width: 100%; 
     height: 100vh; 
     object-fit: fill;
-  border-radius: 8px;
- 
- 
+  border-radius: 8px; 
  
 }
   /* General Layout Styling */
