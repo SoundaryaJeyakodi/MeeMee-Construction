@@ -260,7 +260,7 @@ header .menu ul li:hover a
     margin-left: 5px;
    float: left;
    margin-top: 5px;
-    width:10%;
+    width:20%;
     background-color:yellow;
 }
 .logo img
@@ -271,7 +271,7 @@ header .menu ul li:hover a
 }
       header .menu
       {
-       width:90%;   
+       width:80%;   
 float:right;
 
       }
@@ -285,7 +285,7 @@ header .menu ul
 header .menu ul li
 {
    
-    padding-right:5px ;
+    padding-right:2px ;
       margin-left:0 ;
     background-color:pink;
 }
