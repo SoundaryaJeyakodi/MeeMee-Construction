@@ -260,6 +260,7 @@ header .menu ul li:hover a
     margin-left: 5px;
    float: left;
    margin-top: 5px;
+    width:30%;
     background-color:yellow;
 }
 .logo img
@@ -268,6 +269,12 @@ header .menu ul li:hover a
     height: 50px;
     width: 50px;
 }
+      header .menu
+      {
+       width:70%;   
+
+
+      }
 
 header .menu ul
 {
