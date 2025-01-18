@@ -248,7 +248,7 @@ header .menu ul li:hover a
     header
 {
     height: 40px;
-    width: 96%;
+    width: 100%;
     margin-top: 5px;
     position: absolute;
     
@@ -260,7 +260,7 @@ header .menu ul li:hover a
     margin-left: 5px;
    float: left;
    margin-top: 5px;
-    width:30%;
+    width:10%;
     background-color:yellow;
 }
 .logo img
@@ -271,8 +271,8 @@ header .menu ul li:hover a
 }
       header .menu
       {
-       width:70%;   
-
+       width:90%;   
+float:right;
 
       }
 
@@ -281,7 +281,6 @@ header .menu ul
     margin-top: 20px;
     margin-right:0;
     background-color:blue;
-float:left;
 }
 header .menu ul li
 {
