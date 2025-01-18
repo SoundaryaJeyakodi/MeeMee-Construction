@@ -272,9 +272,9 @@ header .menu ul li:hover a
 header .menu ul
 {
     margin-top: 20px;
-    margin-right:20px;
+    margin-right:0;
     background-color:blue;
-
+float:left;
 }
 header .menu ul li
 {
