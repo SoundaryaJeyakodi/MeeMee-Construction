@@ -272,17 +272,18 @@ header .menu ul li:hover a
     height: 50px;
     width: 50px;
 }
-      header .menu
-      {
-       width:80%;   
+header .menu
+{
+width:80%;   
 float:right;
 
-      }
+}
 
 header .menu ul
 {
     margin-top: 20px;
     margin-right:0;
+    margin-left:0;
     background-color:blue;
 }
 header .menu ul li
