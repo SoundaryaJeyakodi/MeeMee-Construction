@@ -284,6 +284,8 @@ header .menu ul
     margin-top: 20px;
     margin-right:0;
     margin-left:0;
+        padding:0 ;
+
     background-color:blue;
 }
 header .menu ul li
