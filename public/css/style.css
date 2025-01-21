@@ -289,8 +289,8 @@ header .menu ul
 header .menu ul li
 {
    
-    padding-right:0 ;
-      margin-left:0 ;
+    padding:0 ;
+      margin:0 ;
     background-color:pink;
 }
 header .menu ul li a
