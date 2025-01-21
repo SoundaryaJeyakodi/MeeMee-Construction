@@ -273,7 +273,7 @@ header .menu ul li:hover a
 }
 header .menu
 {
-width:75%;   
+width:80%;   
 float:right;
 margin-right:10px;
 }
@@ -309,13 +309,13 @@ header .menu ul li:hover a
     min-width: 70px;
     z-index: -1;
     padding-top: 4px;
-    margin-top: -6px;
+    margin-top: -5px;
     
   }
   
   .dropdown-content a {
     
-    margin-top: 4px;
+    margin-top: 2px;
   }
   
   header .menu ul li .dropdown-content a:hover {
