@@ -264,7 +264,6 @@ header .menu ul li:hover a
    float: left;
    margin-top: 5px;
     width:20%;
-    background-color:yellow;
 }
 .logo img
 {
@@ -286,14 +285,12 @@ header .menu ul
     margin-left:0;
         padding:0 ;
 
-    background-color:blue;
 }
 header .menu ul li
 {
    
     padding:2px ;
       margin:0 ;
-    background-color:pink;
 }
 header .menu ul li a
 {
