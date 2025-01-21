@@ -295,7 +295,7 @@ header .menu ul li
 header .menu ul li a
 {
 
-font-size: 12px;
+font-size: 11px;
 }
 header .menu ul li:hover a
 {
@@ -309,7 +309,7 @@ header .menu ul li:hover a
     min-width: 70px;
     z-index: -1;
     padding-top: 4px;
-    margin-top: -4px;
+    margin-top: -6px;
     
   }
   
