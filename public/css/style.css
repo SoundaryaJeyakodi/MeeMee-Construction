@@ -275,7 +275,7 @@ header .menu ul li:hover a
 header .menu
 {
 width:70%;   
-float:left;
+float:right;
 
 }
 
@@ -291,7 +291,7 @@ header .menu ul
 header .menu ul li
 {
    
-    padding:0 ;
+    padding:2px ;
       margin:0 ;
     background-color:pink;
 }
